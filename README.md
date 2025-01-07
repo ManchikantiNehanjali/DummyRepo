@@ -18,7 +18,7 @@ Thsi is a repo designed to help learners explore the capabilities of git and Git
       - [Deleting and Renaming files](#deleting-and-renaming-files)
       - [Ignoring Files](#ignoring-files)"opp"
     - [Reviewing your projects history](#reviewing-your-projects-history)
-      - [Relfecting on the past](#relfecting-on-the-past)
+      - [Relfecting on the past](#relfecting-on-the-past)+"9012"
       - [Differentiating changes](#differentiating-changes)
     - [Travelling back in time and rewriting history](#travelling-back-in-time-and-rewriting-history)
       - [Ammending commits](#ammending-commits)
