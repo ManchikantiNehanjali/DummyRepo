@@ -16,7 +16,7 @@ Thsi is a repo designed to help learners explore the capabilities of git and Git
         - [Working, staging and repository environments](#working-staging-and-repository-environments)
         - [File States](#file-states)
       - [Deleting and Renaming files](#deleting-and-renaming-files)
-      - [Ignoring Files](#ignoring-files)
+      - [Ignoring Files](#ignoring-files)"opp"
     - [Reviewing your projects history](#reviewing-your-projects-history)
       - [Relfecting on the past](#relfecting-on-the-past)
       - [Differentiating changes](#differentiating-changes)
