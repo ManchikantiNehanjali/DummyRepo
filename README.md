@@ -24,7 +24,7 @@ Thsi is a repo designed to help learners explore the capabilities of git and Git
       - [Ammending commits](#ammending-commits)
     - [Working with branches](#working-with-branches)
         - [Merging](#merging)
-        - [Merge Conflicts](#merge-conflicts)+"90"
+        - [Merge Conflicts](#merge-conflicts)+"90908"
     - [Immortalizing Your project with GitHub](#immortalizing-your-project-with-github)
       - [Setting up a GitHub account](#setting-up-a-github-account)
       - [Connecting your online repo to your local repo](#connecting-your-online-repo-to-your-local-repo)
