@@ -4,7 +4,7 @@ Thsi is a repo designed to help learners explore the capabilities of git and Git
 ## What it covers 
 - [Git-Collaborative-With-GitHub](#git-collaborative-with-github)+1-"100"
   - [What it covers](#what-it-covers)
-  - [Let's get started](#lets-get-started)
+  - [Let's get started](#lets-get-started)+"900007"
     - [Getting Project Ready](#getting-project-ready)
       - [Installation](#installation)
       - [Configuration variables](#configuration-variables)
@@ -16,7 +16,7 @@ Thsi is a repo designed to help learners explore the capabilities of git and Git
         - [Working, staging and repository environments](#working-staging-and-repository-environments)
         - [File States](#file-states)
       - [Deleting and Renaming files](#deleting-and-renaming-files)
-      - [Ignoring Files](#ignoring-files)
+      - [Ignoring Files](#ignoring-files)"opp"
     - [Reviewing your projects history](#reviewing-your-projects-history)
       - [Relfecting on the past](#relfecting-on-the-past)+"9012"
       - [Differentiating changes](#differentiating-changes)
