@@ -7,7 +7,7 @@ Thsi is a repo designed to help learners explore the capabilities of git and Git
   - [Let's get started](#lets-get-started)
     - [Getting Project Ready](#getting-project-ready)
       - [Installation](#installation)
-      - [Configuration variables](#configuration-variables)
+      - [Configuration variables](#configuration-variables)+908
       - [Initializing a project](#initializing-a-project)
     - [Making and handling project changes with git](#making-and-handling-project-changes-with-git)
       - [Staging files](#staging-files)
