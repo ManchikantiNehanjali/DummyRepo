@@ -1,7 +1,5 @@
 # Git-Collaborative-With-GitHub
 a
-b
-c
 Thsi is a repo designed to help learners explore the capabilities of git and GitHub in helping them collaborate better and boost their productivity. It is created as a follow up to the GitHub Workshop conducted for Microsoft's Game Of Learners Season 4 participants to get them to better understand Git and GitHub
 
 ## What it covers 
